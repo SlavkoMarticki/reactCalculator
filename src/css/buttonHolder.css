@@ -1,0 +1,33 @@
+.holder{
+    height: 65%;
+}
+.holder .line{
+    width: 90%;
+    height: 20%;
+    margin: auto;
+    text-align: center;
+}
+.holder .line button{
+    margin-left: 2%;
+    margin-right: 2%;
+    height: 90%;
+    width: 20%;
+    border-radius: 50px;
+    font-size: 20px;
+    color: white;
+    background-color: rgb(75, 75, 75);
+}
+.holder .line button:hover{
+    cursor: pointer;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+.holder .line .orangeColor {
+    background-color: rgb(255, 132, 0);
+}
+.holder .line .grayColor {
+    background-color: rgb(152, 151, 151);
+}
+.holder .line .zeroButton{
+    width: 44%;
+    border-radius: 20px;
+}

@@ -1,0 +1,18 @@
+.screen{
+    width: 90%;
+    height: 35%;
+    position: relative;
+    overflow: auto;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.screen p{
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    font-size: 35px;
+    margin: 0px;
+    font-weight: 600;
+    color: white;
+    margin-bottom: 15px;
+}
